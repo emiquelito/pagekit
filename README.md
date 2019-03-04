@@ -39,6 +39,7 @@ If you want to run the current development version, you can [install Pagekit fro
 ## CLI
 
 Pagekit offers a set of commands to run usual tasks on the command line. You can see the available commands with
+
 ```
 ./pagekit --help
 ```
